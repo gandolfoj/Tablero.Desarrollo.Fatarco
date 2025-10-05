@@ -1,0 +1,7 @@
+voila~=0.5
+ipywidgets~=7.7
+pandas~=2.2
+numpy~=2.0
+matplotlib~=3.8
+scikit-learn~=1.6
+plotly~=5.24
